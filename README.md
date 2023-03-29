@@ -32,7 +32,7 @@
   <summary>Skills</summary>
       <br/>
         <p>👨‍💻 TypeScript, JavaScript, HTML, Redux, Flux, Vite,</p>
-        <p>⚙️ React, Next.js, Redux</p>
+        <p>⚙️ React, Next.js</p>
        <p>👁️ SASS, CSS, Bootstrap</p>
         <p>💽 MongoDB, Node.js , Mongoose, Express</p>
         <p>⚠️ Unit Testing, Jest</p>
