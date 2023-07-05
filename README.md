@@ -31,10 +31,10 @@
       <details>
   <summary>Skills</summary>
       <br/>
-        <p>👨‍💻 TypeScript, JavaScript, HTML, Redux, Flux, Vite,</p>
-        <p>⚙️ React, Next.js</p>
+        <p>👨‍💻 Ruby, CoffeeScript, TypeScript, JavaScript, HTML, Redux, Flux, Vite,</p>
+        <p>⚙️ Ruby on Rails, React, Next.js</p>
        <p>👁️ SASS, CSS, Bootstrap</p>
-        <p>💽 MongoDB, Node.js , Mongoose, Express</p>
+        <p>💽 MySQL, MongoDB, Node.js , Mongoose, Express</p>
         <p>⚠️ Unit Testing, Jest</p>
         <p>💅🏻 Figma, Firebase, SonarCloud, Postman, Netlify</p>
       <br/>
